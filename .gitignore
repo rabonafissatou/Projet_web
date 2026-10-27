@@ -1,0 +1,20 @@
+# --- Fichiers parasites du systeme ---
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
+
+
+# --- Configuration LOCALE (identifiants de base de donnees) ---
+/config.php
+
+
+# --- Editeurs ---
+.vscode/
+.idea/
+
+
+# --- Sauvegardes et temporaires ---
+*.bak
+*.tmp
+*.log
